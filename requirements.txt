@@ -1,0 +1,3 @@
+# ComfyUI already supplies torch. IndexTTS dependencies belong in its isolated runtime.
+numpy
+scipy

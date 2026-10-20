@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-vallpaper-voice"
+version = "0.1.0"
+description = "Directed dialogue takes and CPU voice effects for ComfyUI, using an isolated IndexTTS runtime."
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "dharaniVibeDev"}]
+
+[project.urls]
+Repository = "https://github.com/dharaniVibeDev/ComfyUI-vallpaper-voice"
+Issues = "https://github.com/dharaniVibeDev/ComfyUI-vallpaper-voice/issues"
