@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">vallpaper.store — VOICE</title>
+<desc id="desc">DIRECT THE LINE. SHAPE THE SOUND. Dialogue takes and audio effects inside ComfyUI.</desc>
+<rect width="1280" height="440" fill="#103ee7"/>
+<path d="M48 88H1232M48 382H1232" stroke="#fff" stroke-opacity=".3"/>
+<circle cx="54" cy="49" r="6" fill="#c1ff00"/>
+<text x="72" y="57" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">vallpaper.store</text>
+<text x="1232" y="55" fill="#c1ff00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2">02 / AUDIO TOOLS</text>
+<text x="48" y="130" fill="#c1ff00" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3">VOICE / COMFYUI</text>
+<text x="44" y="229" fill="#fff" font-family="Impact,Arial Narrow,Arial,Helvetica,sans-serif" font-size="83" font-weight="900" letter-spacing="-2">DIRECT THE LINE.</text>
+<text x="44" y="319" fill="#c1ff00" font-family="Impact,Arial Narrow,Arial,Helvetica,sans-serif" font-size="83" font-weight="900" letter-spacing="-2">SHAPE THE SOUND.</text>
+<text x="48" y="360" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="21">Dialogue takes and audio effects inside ComfyUI.</text>
+<text x="48" y="414" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1">BUILT BY DHARANIDHARAN K</text>
+<text x="1232" y="414" fill="#fff" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1">AI PRODUCTION / CREATIVE TOOLS</text>
+</svg>

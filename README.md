@@ -1,3 +1,5 @@
+![vallpaper.store VOICE: DIRECT THE LINE. SHAPE THE SOUND.](docs/brand/header.svg)
+
 # vallpaper.store · Voice
 
 **Direct the dialogue. Choose the take. Shape the sound.**
@@ -12,6 +14,12 @@ audio effects run on the CPU. No cloud API or microphone recording is required.
 > workflow has not been executed in ComfyUI or tested end to end on a GPU.
 > The earlier single-voice runtime generated audio locally, but that is not an
 > integration test of this release. No performance benchmark is claimed.
+
+## Start with the dialogue
+
+Write a line, direct its delivery, generate alternate takes, then choose the assembly and apply effects. Saved sessions let you revisit completed takes without regenerating speech.
+
+**[Install the nodes](#install-the-nodes)** · [Set up speech](#prepare-the-isolated-speech-runtime) · [Example workflow](#try-the-villain-example) · [Validation](#development-and-validation)
 
 ## What is included
 
@@ -256,6 +264,18 @@ load models, import the ComfyUI node entry point, or start a server.
 GPU inference and browser integration tests for Director/FX remain pending.
 Please include node settings and the relevant generation log in bug reports,
 after removing any private dialogue and file paths.
+
+## More from vallpaper.store
+
+Tools built around AI visual production by [Dharanidharan K](https://github.com/dharaniVibeDev).
+
+| Project | What it covers |
+| --- | --- |
+| [Prompt Archive](https://github.com/dharaniVibeDev/comfyui-prompt-archive-docx) | Save previews, prompts and settings; review and restore mapped values. |
+| [Voice](https://github.com/dharaniVibeDev/ComfyUI-vallpaper-voice) | Direct dialogue, choose alternate takes and apply audio effects. |
+| [Hardware + Timer](https://github.com/dharaniVibeDev/ComfyUI-vallpaper-hardware) | Monitor hardware, time generations and receive completion alerts. |
+
+[Explore the creative portfolio](https://dharanis-portfolio-lilac.vercel.app) · [Watch the Prompt Archive demo](https://dharanis-portfolio-lilac.vercel.app/hire/prompt-archive-demo.mp4) · [He Heard You: production case study](https://dharanis-portfolio-lilac.vercel.app/work/he-heard-you-case-study.mp4)
 
 ## Credits and license
 
