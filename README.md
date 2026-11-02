@@ -1,4 +1,4 @@
-![vallpaper.store VOICE: DIRECT THE LINE. SHAPE THE SOUND.](docs/brand/header.svg)
+![vallpaper.store VOICE — three Krea 2 visual studies: a rainy racing scene, a stilt house and a helicopter rescue](docs/brand/header.jpg)
 
 # vallpaper.store · Voice
 
